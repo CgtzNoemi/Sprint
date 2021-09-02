@@ -1,0 +1,17 @@
+
+
+
+.header {
+  background-color:black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  color: white;
+
+}
+
+
+
+
